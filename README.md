@@ -6,4 +6,4 @@
 4. ards_ventilator.py applies ventilatory therapy to each patient. Ventilator settings such as FiO2, TV, flow rate, PEEP, and RR are adjustable.
 5. ards_ecmo_ventilator.py applies ventilatory and ECMO therapy to each patient. ECMO settings such as CO2 removal, flow rate, and oxygenator volume are adjustable.
 6. create_state.py creates unique patients based on user inputs (height, weight, age, etc.)
-7. An excel sheet is included that features the random patients' features that were used in this study.
+7. Patients - sheet includes the patients' features that were used in this study.
