@@ -1,6 +1,7 @@
 # ARDS_pulse_study
 
 Python Version: 3.9
+
 Pulse Integrated Branch: 5dec14b
 
 1. analyze_other_properties.py defines a function that calculates the means and standard deviations of the patients' properties.
